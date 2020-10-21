@@ -54,7 +54,7 @@
 
 - 有关搜索：嗯，我迅速收藏了一大堆网站：
 
-[<img src="https://s1.ax1x.com/2020/10/21/BPU5yq.jpg" alt="BPU5yq.jpg" style="zoom:50%;" />](https://imgchr.com/i/BPU5yq)
+[<img src="https://s1.ax1x.com/2020/10/21/BPU5yq.jpg" alt="BPU5yq.jpg" style="zoom: 25%;" />](https://imgchr.com/i/BPU5yq)
 
 ​	   不过google+CSDN真心万能，日常遇到问题再也不用麻烦 xgg xjj 啦~
 
@@ -92,7 +92,7 @@
 
 - 把 Learning Git Branching 玩到了多次rebase那一关（u1s1，挺好玩的），顺便把里面提到的各种git命令列到了小本本上~
 
-  [<img src="https://s1.ax1x.com/2020/10/21/BPaeXt.jpg" alt="BPaeXt.jpg" style="zoom:50%;" />](https://imgchr.com/i/BPaeXt)
+  [<img src="https://s1.ax1x.com/2020/10/21/BPaeXt.jpg" alt="BPaeXt.jpg" style="zoom: 25%;" />](https://imgchr.com/i/BPaeXt)
 
 ## 任务
 
@@ -113,15 +113,15 @@ github链接：
 直接上图：
 
 - 游戏初始化关系图：
-- [<img src="https://s1.ax1x.com/2020/10/21/BPa8pj.jpg" alt="BPa8pj.jpg" style="zoom:50%;" />](https://imgchr.com/i/BPa8pj)
+- [<img src="https://s1.ax1x.com/2020/10/21/BPa8pj.jpg" alt="BPa8pj.jpg" style="zoom: 25%;" />](https://imgchr.com/i/BPa8pj)
 - github初始化图：
-- [<img src="https://s1.ax1x.com/2020/10/21/BPdG5D.jpg" alt="BPdG5D.jpg" style="zoom:50%;" />](https://imgchr.com/i/BPdG5D)
+- [<img src="https://s1.ax1x.com/2020/10/21/BPdG5D.jpg" alt="BPdG5D.jpg" style="zoom: 25%;" />](https://imgchr.com/i/BPdG5D)
 - 命令行操作过程：（其实本图的操作不正确/笑哭  因为我试了好几次hhhhh，最后一次成功的命令行忘记截图了...哭哭）
-- [<img src="https://s1.ax1x.com/2020/10/21/BPdg2j.jpg" alt="BPdg2j.jpg" style="zoom:50%;" />](https://imgchr.com/i/BPdg2j)
+- [<img src="https://s1.ax1x.com/2020/10/21/BPdg2j.jpg" alt="BPdg2j.jpg" style="zoom: 25%;" />](https://imgchr.com/i/BPdg2j)
 - master成品（本地）：
-- [<img src="https://s1.ax1x.com/2020/10/21/BPdhq0.jpg" alt="BPdhq0.jpg" style="zoom:50%;" />](https://imgchr.com/i/BPdhq0)
+- [<img src="https://s1.ax1x.com/2020/10/21/BPdhq0.jpg" alt="BPdhq0.jpg" style="zoom: 25%;" />](https://imgchr.com/i/BPdhq0)
 - master成品（github）：
-- [<img src="https://s1.ax1x.com/2020/10/21/BPdoIU.jpg" alt="BPdoIU.jpg" style="zoom:50%;" />](https://imgchr.com/i/BPdoIU)
+- [<img src="https://s1.ax1x.com/2020/10/21/BPdoIU.jpg" alt="BPdoIU.jpg" style="zoom: 25%;" />](https://imgchr.com/i/BPdoIU)
 
 库名是used-for-rebase~
 
@@ -143,7 +143,7 @@ over~thanks for reading~
 
 直接上图：
 
-[![BPwcTK.jpg](https://s1.ax1x.com/2020/10/21/BPwcTK.jpg)](https://imgchr.com/i/BPwcTK)
+[<img src="https://s1.ax1x.com/2020/10/21/BPwcTK.jpg" alt="BPwcTK.jpg" style="zoom:25%;" />](https://imgchr.com/i/BPwcTK)
 
 经过一番艰难的摸索和概念查询，我终于提交了自己的pr...但是还没有审核呢...所以t恤暂时没有拿到
 
@@ -187,9 +187,9 @@ over~thanks for reading~
 
 嗯，截图如下(三四天前搞的，其实我也不记得我在哪里下载的2333，只记得当时我真的挣扎了好久好久)
 
-<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/1b24110ff8025f7f4.jpg" alt="1b24110ff8025f7f4.jpg" style="zoom:50%;" />
+<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/1b24110ff8025f7f4.jpg" alt="1b24110ff8025f7f4.jpg" style="zoom: 25%;" />
 
-<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/222222222.jpg" alt="222222222.jpg" style="zoom:50%;" />
+<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/222222222.jpg" alt="222222222.jpg" style="zoom: 25%;" />
 
 刚开始去官网下的，但是好像要下载十年……
 
@@ -209,7 +209,7 @@ over~thanks for reading~
 
 但是安装成功后还是很开心的(发了说说hhh)
 
-<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/30384260e8bf76d1e.png" alt="30384260e8bf76d1e.png" style="zoom:50%;" />
+<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/30384260e8bf76d1e.png" alt="30384260e8bf76d1e.png" style="zoom: 25%;" />
 
 然后在 CSDN 上摸索，换了阿里源~
 
@@ -225,7 +225,7 @@ over~thanks for reading~
 
 这步操作时间有点久远了，说实话我真的不记得怎么做的了...只记得当时卡到显示比例啥的地方卡了很久（随意搜了一个背景）
 
-<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/4.jpg" alt="4.jpg" style="zoom:50%;" />
+<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/4.jpg" alt="4.jpg" style="zoom: 25%;" />
 
 ###### step2.背景主题图标字体等等的配置
 
@@ -239,7 +239,7 @@ over~thanks for reading~
 
 无法定位软件包，403 NOT FOUND，无法获得锁什么的，各种错试了个遍
 
-<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/5.jpg" alt="5.jpg" style="zoom:50%;" />
+<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/5.jpg" alt="5.jpg" style="zoom: 25%;" />
 
 <img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/QQ202010150131239b553dd871b1a2b9.jpg" alt="QQ202010150131239b553dd871b1a2b9.jpg" style="zoom:25%;" />
 
@@ -259,11 +259,11 @@ over~thanks for reading~
 
 但是最终效果太喜人了吧：
 
-<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/QQ20201015011627.jpg" alt="QQ20201015011627.jpg" style="zoom:50%;" />
+<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/QQ20201015011627.jpg" alt="QQ20201015011627.jpg" style="zoom: 25%;" />
 
-<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/DE4A57196118906CBB93B9CE4391A556.jpg" alt="DE4A57196118906CBB93B9CE4391A556.jpg" style="zoom:50%;" />
+<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/DE4A57196118906CBB93B9CE4391A556.jpg" alt="DE4A57196118906CBB93B9CE4391A556.jpg" style="zoom: 25%;" />
 
-<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/925B547B9B47B3D92225E6F73D5971ED.jpg" alt="925B547B9B47B3D92225E6F73D5971ED.jpg" style="zoom:50%;" />
+<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/925B547B9B47B3D92225E6F73D5971ED.jpg" alt="925B547B9B47B3D92225E6F73D5971ED.jpg" style="zoom: 25%;" />
 
 我重新爱上这世界了23333
 
@@ -327,9 +327,9 @@ over~thanks for reading~
 
 不瞒你说，当时我心血来潮一夜之间看完了小甲鱼的0基础入门python的视频...
 
-<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/QQ20201015013155.jpg" alt="QQ20201015013155.jpg" style="zoom: 33%;" />
+<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/QQ20201015013155.jpg" alt="QQ20201015013155.jpg" style="zoom: 25%;" />
 
-<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/QQ20201015013429.jpg" alt="QQ20201015013429.jpg" style="zoom: 33%;" />
+<img src="https://wpcos-1300629776.cos.ap-chengdu.myqcloud.com/Gallery/2020/10/15/QQ20201015013429.jpg" alt="QQ20201015013429.jpg" style="zoom: 25%;" />
 
 甲鱼的书前两天才到，因为在忙着做别的方向就寥寥看了几页...
 
@@ -369,19 +369,19 @@ emmm题目还没看呢，所以根本不敢交邮件
 
 - 创建项目，爬虫，item(对着阴间教程纯手码...)
 
-  [![BPf9BD.jpg](https://s1.ax1x.com/2020/10/21/BPf9BD.jpg)](https://imgchr.com/i/BPf9BD)
+  [<img src="https://s1.ax1x.com/2020/10/21/BPf9BD.jpg" alt="BPf9BD.jpg" style="zoom:25%;" />](https://imgchr.com/i/BPf9BD)
 
   
 
-  [![BPWv1x.jpg](https://s1.ax1x.com/2020/10/21/BPWv1x.jpg)](https://imgchr.com/i/BPWv1x)
+  [<img src="https://s1.ax1x.com/2020/10/21/BPWv1x.jpg" alt="BPWv1x.jpg" style="zoom:25%;" />](https://imgchr.com/i/BPWv1x)
 
 
 
-[![BPfejf.jpg](https://s1.ax1x.com/2020/10/21/BPfejf.jpg)](https://imgchr.com/i/BPfejf)
+[<img src="https://s1.ax1x.com/2020/10/21/BPfejf.jpg" alt="BPfejf.jpg" style="zoom:25%;" />](https://imgchr.com/i/BPfejf)
 
 - 解析HTML（一层一层剥，莫名好爽噢2333）
 
-  [![BPW5cV.jpg](https://s1.ax1x.com/2020/10/21/BPW5cV.jpg)](https://imgchr.com/i/BPW5cV)
+  [<img src="https://s1.ax1x.com/2020/10/21/BPW5cV.jpg" alt="BPW5cV.jpg" style="zoom:25%;" />](https://imgchr.com/i/BPW5cV)
 
 - 然后运行出了点问题...我接着再试试吧，截止之前不知能不能有进展hhhh（看来是没有了）
 
