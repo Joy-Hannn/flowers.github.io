@@ -70,8 +70,6 @@
 
 
 
-
-
 # 	#1 啥是Git
 
 ## 准备
@@ -129,13 +127,9 @@ over~thanks for reading~
 
 
 
-
-
   # 	#2 Markdown
 
 不再赘述~
-
-
 
 
 
@@ -148,8 +142,6 @@ over~thanks for reading~
 经过一番艰难的摸索和概念查询，我终于提交了自己的pr...但是还没有审核呢...所以t恤暂时没有拿到
 
 我尽力了/笑哭
-
- 
 
 
 
@@ -302,7 +294,6 @@ To sum up,我不把它当日常使用了，以后用可可爱爱的树莓派吧�
 当然这只是手机上的历史记录，电脑上估计比这多得多...
 
 
-
 ### 总述
 
 我完成了：
@@ -344,9 +335,7 @@ emmm题目还没看呢，所以根本不敢交邮件
 # 	#8  **网络爬虫**
 
 
-
 > 由于探索太过投入，许多过程忘记截图了...学习过程还原度可能不是很高...我尽量后期还原~
-
 
 
 我已完成：
@@ -388,20 +377,70 @@ emmm题目还没看呢，所以根本不敢交邮件
   而且我的32位电脑下载不了mysql数据库...我真的没法了hhh
   
   此路从此断
+   
   
   
-  
-  
-  
-  # #12  CTF
-  
-  编辑中hhhh 再给我点时间
-  
-  
-  
-  
-  
-  
+# #12  CTF
+
+上进度  /笑哭
+
+[<img src="https://s1.ax1x.com/2020/10/22/BiW3Kf.jpg" alt="BiW3Kf.jpg" style="zoom:50%;" />](https://imgchr.com/i/BiW3Kf)
+
+[<img src="https://s1.ax1x.com/2020/10/22/BiWYVg.jpg" alt="BiWYVg.jpg" style="zoom:50%;" />](https://imgchr.com/i/BiWYVg)
+
+首先去康了康招新平台上给的科普链接，了解了一下CTF概念和涉及到的知识储备
+
+自己也去CSDN和知乎上查了查
+
+进平台~
+
+**第一题：**
+
+[<img src="https://s1.ax1x.com/2020/10/22/BiW0x0.jpg" alt="BiW0x0.jpg" style="zoom:50%;" />](https://imgchr.com/i/BiW0x0)
+
+怎么说吧，可能由于自己潜意识里习惯把当前界面所连接的链接都打开，所以我在点开题目之前就点开了hint（？）
+
+然后按一下 F12  就出来了...
+
+**第二题：**
+
+[<img src="https://s1.ax1x.com/2020/10/22/BihGNQ.jpg" alt="BihGNQ.jpg" style="zoom:50%;" />](https://imgchr.com/i/BihGNQ)
+
+我去详细查了一下php语法和涉及到的函数，弄懂了之后先在url上输入了a=1，然后在火狐上用Hackbar输入b，就出来flag了
+
+当时忘记截图了，就随便打开一下Hackbar吧hhhh
+
+[<img src="https://s1.ax1x.com/2020/10/22/Bihg3R.jpg" alt="Bihg3R.jpg" style="zoom:50%;" />](https://imgchr.com/i/Bihg3R)
+
+babysql的题我搞了半天没搞太懂，就想去试试社工题...想着我如果能把社工题搞出来应该会一鸣惊人吧？（雾）
+
+**社工题：**
+
+这个我当时查资料找方法，搞到了凌晨四点还没搞出来，我就放弃了...
+
+首先是创作社区，第一反应就是简书
+
+结果一试，居然真的是！激动
+
+[<img src="https://s1.ax1x.com/2020/10/22/Bi4Fvq.jpg" alt="Bi4Fvq.jpg" style="zoom:50%;" />](https://imgchr.com/i/Bi4Fvq)
+
+（嗯？为啥今天啥都没了）
+
+查了一下misc常见的题型，姑且试了试...把头像和文章里面涉及到的图片存下来改成txt看
+
+还下载了winhex，看它的文件头和中间内容（可惜我没有火眼金睛，又没搞懂winhex的搜索功能，所以中间内容没发现什么东西）
+
+结果发现这个文件头为啥和ani一样？！（激动）
+
+于是兴致勃勃的下载了ACDSee点击查看，结果查看不了
+
+后来一查才知道，这俩文件头本来就很像...巧合而已
+
+白忙一场 太困就睡了hhhh
+
+不过又了解了一堆文件格式啥的，也算值了hhh
+
+
   
   # #13  等待焦糖，你的2048
 
@@ -409,15 +448,12 @@ emmmmm我用学生福利在腾讯云买了个个人域名，领了个15天免费
 
 只能用gitpage搞了...
 
-（出了点小问题...而且我也想再完善一下个人介绍23333，估计明天再看叭）
 
 链接：
 
 []: https://github.com/Joy-Hannn/joyhan.github.io
 
-我的题目博客（一些完成度较低，不敢单独交的题目会放在上面哦）：
 
-[]: https://joy-hannn.github.io/flowers.github.io/
 
 
 
